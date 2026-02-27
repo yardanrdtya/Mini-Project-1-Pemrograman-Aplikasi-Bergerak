@@ -94,4 +94,3 @@ Pada halaman utama aplikasi, setiap data servis pelanggan dilengkapi dengan tomb
 <img width="1919" height="879" alt="image" src="https://github.com/user-attachments/assets/a6920332-8fc0-4f45-b4f1-515f7953b33c" />
 
 Untuk tampilan akhirnya, setelah admin menghapus seluruh data servis pelanggan yang tersimpan, halaman utama aplikasi kembali menampilkan kondisi awal tanpa data. Halaman utama kembali menampilkan pesan “Belum ada data servis” yang menandakan tidak ada data tersimpan. Tombol tambah (+) tetap tersedia sehingga admin dapat menambahkan data servis baru kembali.
->>>>>>> ba6231c0f9e6ff087376ea6d5048dda1fb356089
