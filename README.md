@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# flutter_application_1
-
-A new Flutter project.
-=======
 # Mini-Project-1-Pemrograman-Aplikasi-Bergerak
 Yardan Raditya Rafi' Widyadhana | 2409116037 | Sistem Informasi A 2024
 
